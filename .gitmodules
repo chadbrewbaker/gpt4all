@@ -23,3 +23,6 @@
 [submodule "gpt4all-chat/deps/rapidjson"]
 	path = gpt4all-chat/deps/rapidjson
 	url = https://github.com/nomic-ai/rapidjson.git
+[submodule "gpt4all-chat/deps/z3"]
+	path = gpt4all-chat/deps/z3
+	url = https://github.com/Z3Prover/z3.git
